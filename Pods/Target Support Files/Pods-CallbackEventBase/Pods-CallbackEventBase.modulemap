@@ -1,0 +1,6 @@
+framework module Pods_CallbackEventBase {
+  umbrella header "Pods-CallbackEventBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
